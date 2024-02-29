@@ -5,17 +5,26 @@
   <img alt="Discord" src="https://img.shields.io/discord/760172984467587074?style=social&logo=discord">
 </div>
 
-## :brain: Sobre mí
+## :dizzy: Sobre mí
 💻 Web developer<br>
 📒 Soy estudiante de Administración de Sist. operativos en red<br>
-🔧 Actualmente estoy desarrollando una app con ```Angular 17```<br>
+🔧 Actualmente estoy desarrollando una app con ```Angular 17``` y ```Node.js```<br>
 📫 <a href="mailto:sergioavilamacho12@gmail.com">Contáctame</a>
 
-## :dizzy: Mis conocimientos
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,angular,astro,nodejs,php,mysql,figma)](https://skillicons.dev)
+## :computer: Tech Skills
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,py,angular,astro,nodejs,php,mysql,docker,figma">
+</div>
 
 ## :chart_with_upwards_trend: Estadísticas
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=d4souls&show_icons=true&theme=material-palenight&locale=es" /><br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4souls&layout=compact&theme=material-palenight&locale=es"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=d4souls&show_icons=true&theme=nord&locale=es" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=d4souls&layout=compact&theme=nord&locale=es"/>
+</div>
+
+## 🏆 GitHub Trofeos
+![](https://github-profile-trophy.vercel.app/?username=D4souls&theme=nord&no-frame=false&no-bg=true&margin-w=4)
+
+## 🔝 Top Contribuciones Repo
+<div align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=D4souls&limit=5&theme=dark&combine_all_yearly_contributions=true">
 </div>
